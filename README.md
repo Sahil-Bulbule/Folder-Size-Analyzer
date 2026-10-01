@@ -1,6 +1,1 @@
 Python Practice Project !!!   
-   
-    
-        
-    
-   
